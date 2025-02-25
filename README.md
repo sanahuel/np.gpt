@@ -1,3 +1,3 @@
 # np.gpt
 
-Small gpt-transformer library from scratch using numpy
+small gpt transformer implementation from scratch using numpy
